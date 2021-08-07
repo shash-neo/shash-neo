@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shash-neo
-- 👀 I’m interested in Python Programming. Good with hands-on Git & Github, VSCode, Docker, Django, VirtualEnv's, Linux OS, CLI on both Windows & Linux and also tools like VMware, Wireshark, Excel, Vim, Raspberry Pi and Embedded Systems Programming.
+- 👀 I’m interested in Python Programming. Good with hands-on Git & Github, MySql, Docker, Django, VirtualEnv's, Linux like OS's, CLI on both Windows & Linux, Embedded Systems Programming and also tools like VSCode, VMware, Wireshark, Excel, Vim & Raspberry Pi.
 - 🌱 I’m currently learning Web Devolopment, Android App.Development, Networking, Game Programming, Machine Learning and AI. 
 - 💞️ I’m looking to collaborate on any projects invloved in Python Programming.
 - 📫 You can reach me on Gmail at incredible.shash@gmail.com 
