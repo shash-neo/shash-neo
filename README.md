@@ -2,16 +2,16 @@
 
 ### ⚙️ Systems Engineering | 🐧 Linux | 🔐 Cybersecurity
 
-I'm an engineer exploring computing from the ground up — from hardware architecture and operating systems to networks and security.
+I'm an engineer exploring computing from the ground up - from hardware architecture and operating systems to networks and security.
 
 My focus is on understanding fundamentals, building practical tools, and documenting what I learn through hands-on engineering projects.
 
 ### 🎯 Current Focus
 
-- ⚙️ **Systems Programming** — C, Linux internals, and low-level computing
-- 🌐 **Networking & Cybersecurity** — networking protocols, system security, and penetration testing fundamentals
-- 🐍 **Python & Automation** — scripting, auditing, and security tooling
-- 📡 **Embedded Systems** — Raspberry Pi–based security engineering
+- ⚙️ **Systems Programming** —> C, Linux internals, and low-level computing
+- 🌐 **Networking & Cybersecurity** —> networking protocols, system security, and penetration testing fundamentals
+- 🐍 **Python & Automation** —> scripting, auditing, and security tooling
+- 📡 **Embedded Systems** —> Raspberry Pi–based security engineering
 
 ### 🤝 Connect with Me
 
