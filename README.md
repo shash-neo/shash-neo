@@ -1,22 +1,41 @@
-# 👨‍💻 Shash Neo
+<h1 align="center">👨‍💻 Shash Neo</h1>
 
-### ⚙️ Systems Engineering | 🐧 Linux | 🔐 Cybersecurity
+<h2 align="center">⚙️ Systems Engineering · 🐧 Linux · 🔐 Cybersecurity</h2>
 
-I'm an engineer exploring computing from the ground up - from hardware architecture and operating systems to networks and security.
-
-My focus is on understanding fundamentals, building practical tools, and documenting what I learn through hands-on engineering projects.
-
-### 🎯 Current Focus
-
-- ⚙️ **Systems Programming** --- C, Linux internals, and low-level computing.
-- 🌐 **Networking & Cybersecurity** --- networking protocols, system security, and penetration testing fundamentals.
-- 🐍 **Python & Automation** --- scripting, auditing, and security tooling.
-- 📡 **Embedded Systems** --- Raspberry Pi-based security engineering.
-
-### 🤝 Connect with Me
-
-[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord&logoColor=white)](YOUR_DISCORD_PROFILE_LINK)
+<p align="center">
+  <strong>Understanding systems from the ground up.</strong>
+</p>
 
 ---
 
-*💡 Understand the system. Build the tools. Secure the foundation.*
+I'm an engineer exploring computing from the ground up — from hardware architecture and operating systems to networks and security.
+
+My focus is on understanding fundamentals, building practical tools, and documenting my engineering journey through hands-on projects.
+
+<h2>🎯 CURRENT FOCUS</h2>
+
+<h3>⚙️ Systems Programming</h3>
+C, Linux internals, and low-level computing.
+
+<h3>🌐 Networking & Cybersecurity</h3>
+Networking protocols, system security, and penetration testing fundamentals.
+
+<h3>🐍 Python & Automation</h3>
+Scripting, auditing, and security tooling.
+
+<h3>📡 Embedded Systems</h3>
+Raspberry Pi–based security engineering.
+
+---
+
+<h2>🤝 CONNECT WITH ME</h2>
+
+<p>
+  <a href="YOUR_DISCORD_PROFILE_LINK">
+    <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Connect on Discord"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">💡 Understand the System. Build the Tools. Secure the Foundation.</h3>
