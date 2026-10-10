@@ -8,26 +8,6 @@
 
 ---
 
-I'm an engineer exploring computing from the ground up - from hardware architecture and operating systems to networks and security.
-
-My focus is on understanding fundamentals, building practical tools, and documenting my engineering journey through hands-on projects.
-
-<h2>🎯 CURRENT FOCUS</h2>
-
-<h3>⚙️ Systems Programming</h3>
-C, Linux internals and low-level computing.
-
-<h3>🌐 Networking & Cybersecurity</h3>
-Networking protocols, System security and Penetration testing fundamentals.
-
-<h3>🐍 Python & Automation</h3>
-Scripting, Auditing and Security tooling.
-
-<h3>📡 Embedded Systems</h3>
-Raspberry Pi–based Eecurity Engineering.
-
----
-
 <h2>🤝 CONNECT WITH ME</h2>
 
 <p>
